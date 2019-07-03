@@ -25,6 +25,13 @@ import (
 )
 
 func main() {
+	dsn := "https://user:password@sentry.io/1234"
+
+	handler, err := sentry.New(dsn)
+	if err != nil {
+		panic(err)
+	}
+	defer handler.Close() // Make sure to close the handler to flush all error reporting in progress
 }
 ```
 
