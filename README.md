@@ -1,18 +1,11 @@
 # Sentry handler
 
-<<<<<<< HEAD
-[![CircleCI](https://circleci.com/gh/emperror/handler-sentry.svg?style=svg)](https://circleci.com/gh/emperror/handler-sentry)
-[![Go Report Card](https://goreportcard.com/badge/handler.emperror.dev/sentry?style=flat-square)](https://goreportcard.com/report/handler.emperror.dev/sentry)
-[![GolangCI](https://golangci.com/badges/github.com/emperror/handler-sentry.svg)](https://golangci.com/r/github.com/emperror/handler-sentry)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](https://pkg.go.dev/handler.emperror.dev/sentry)
-=======
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/emperror/handler-sentry/CI?style=flat-square)](https://github.com/emperror/handler-sentry/actions?query=workflow%3ACI)
 [![Codecov](https://img.shields.io/codecov/c/github/emperror/handler-sentry?style=flat-square)](https://codecov.io/gh/emperror/handler-sentry)
 [![Go Report Card](https://goreportcard.com/badge/emperror.dev/handler/sentry?style=flat-square)](https://goreportcard.com/report/emperror.dev/handler/sentry)
 ![Go Version](https://img.shields.io/badge/go%20version-%3E=1.12-61CFDD.svg?style=flat-square)
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/mod/emperror.dev/handler/sentry)
 
->>>>>>> Update package
 
 **Error handler integration for [Sentry](https://sentry.com).**
 
